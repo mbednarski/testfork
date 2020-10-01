@@ -8,3 +8,6 @@ update originalnej libki
 
 
 jeszcze cos
+
+
+super funkcje
